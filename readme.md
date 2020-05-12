@@ -1,4 +1,4 @@
-# ssss / Super Simple Static Server
+# Super Simple Static Server (s4)
 
 A *no-brainer* web-server written in `golang`.
 
@@ -12,7 +12,7 @@ Tested with:
 
 - gatsbyjs
 
-### TODO
+### Todo
 
 - validate/sanitize URL
 - logging
