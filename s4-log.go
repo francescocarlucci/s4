@@ -19,7 +19,7 @@ func main() {
 
   http.HandleFunc("/", serve)
 
-  err := http.ListenAndServe(":8040", nil)
+  err := http.ListenAndServe(":8010", nil)
 
   if err != nil {
     log.Fatal(err)
