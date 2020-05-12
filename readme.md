@@ -6,7 +6,7 @@ In the eternal battle between Apache and NGINX, be your own hero and use your ow
 
 ### Usage
 
-Place your static files in the `./public` folder and you are good to go ;)
+Place your static files in the `./public` folder and you are good to go.
 
 Tested with:
 
