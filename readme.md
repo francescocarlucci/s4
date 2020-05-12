@@ -6,14 +6,12 @@ In the eternal battle between Apache and NGINX, be your own hero and use your ow
 
 ### Usage
 
+Install go: https://golang.org/doc/install
+
 Place your static files in the `./public` folder and you are good to go.
-
-Tested with:
-
-- gatsbyjs
 
 ### Todo
 
 - validate/sanitize URL
-- logging
+- ~~logging~~
 - SSL support
