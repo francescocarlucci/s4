@@ -7,6 +7,7 @@ import (
 
 func serve(w http.ResponseWriter, r *http.Request) {
 
+  // eg. caching, security, custom headers
   w.Header().Add("X-Header", "Value")
 
   p := "./public" + r.URL.Path
